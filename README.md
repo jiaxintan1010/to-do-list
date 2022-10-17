@@ -1,4 +1,4 @@
-<h1>Interior Consultant</h1>
+<h1>To Do List</h1>
 <p>A simple To Do List App developed using React.</p>
 
 <h2>Features</h2>
