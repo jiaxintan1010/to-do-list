@@ -7,8 +7,5 @@
    <li>Allow users to remove to do list item</li>
 </ul>
 
-<h2>Demo</h2>
-View <a href="">here</a>
-
 <h2>Preview</h2>
-<img src="" alt="to-do-list-img">
+<img src="https://user-images.githubusercontent.com/68268595/196141341-f3a23330-0dbe-4348-b9f8-cbad0e4bdfb0.png" alt="to-do-list-img">
